@@ -3,7 +3,7 @@ A simple mood and gratitude journal that helps slowly grow appreciation and over
 
 A very fast prototype for mobile that's more proof of concept than working app at the moment.
 
-![prototype](https://raw.githubusercontent.com/daverau/cultivate-happy/master/img/screenshot.png =320)
+<img src="https://raw.githubusercontent.com/daverau/cultivate-happy/master/img/screenshot.png" width="320">
 
 ## Utilizes
 HTML5, CSS, Knockout.js, LocalStorage
